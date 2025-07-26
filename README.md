@@ -1,1 +1,3 @@
 # Analysis-of-PCOS-Dataset
+In this data science project, a dataset consisting of 300 records related to Polycystic Ovarian Disease (PCOD) was collected and analyzed using Python and Pandas. Preprocessing included data cleaning, handling missing values, and resolving inconsistencies to ensure data quality. Exploratory Data Analysis (EDA) was conducted using visualization libraries like Matplotlib and Seaborn to uncover patterns and health-related trends. K-Means clustering was applied to identify distinct patient groups based on various health indicators. The findings were validated through statistical testing to ensure meaningful and data-driven conclusions.
+
